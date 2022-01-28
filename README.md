@@ -1,4 +1,4 @@
-# admilogic
+# AdmiLogic
  Logistica Administrativa, DeFI administrativo para gestion empresarial y venta de productos online
 
 // Nombre //
@@ -235,3 +235,6 @@ Comando para consultar un trabajador por fin de contrato:
 comando para ejecutar las pruebas:
 
     yarn test
+
+Mockup
+https://www.figma.com/file/pDkqkNpfZrVR7oVh7VEoxR/AdmiLogic?node-id=0%3A1
