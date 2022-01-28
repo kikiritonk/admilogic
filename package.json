@@ -1,15 +1,15 @@
 {
-  "name": "covidvaccination",
+  "name": "admilogic",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "build": "asb",
     "test": "asp --nologo --verbose",
     "clean": "rm -rf ./build",
-    "deploy": "near dev-deploy ./build/release/CovidVaccination.wasm"
+    "deploy": "near dev-deploy ./build/release/admilogic.wasm"
   },
   "keywords": [],
-  "author": "musaqala.near",
+  "author": "admilogic.testnet",
   "license": "ISC",
   "devDependencies": {
     "@types/uuid": "^8.3.1",
